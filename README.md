@@ -1,1 +1,1 @@
-# PRODIGY_AD_01
+"Excited to present my latest project on GitHub - a fun Tic Tac Toe game developed using XML, Java, and scripting. Dive into the code to explore how I crafted this engaging Android experience, leveraging the power of XML for UI design and Java for game logic. Let's play and learn together!"
